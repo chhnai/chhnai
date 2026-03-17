@@ -1,59 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 7,
-                "minutes": 39,
-                "total_seconds": 27551.629,
-                "digital": "7:39",
-                "decimal": "7.65",
-                "text": "7 hrs 39 mins",
-                "ai_additions": 0,
-                "ai_deletions": 1,
-                "human_additions": 541,
-                "human_deletions": 311
-            },
-            "range": {
-                "start": "2026-03-15T17:00:00Z",
-                "end": "2026-03-16T16:59:59Z",
-                "date": "2026-03-16",
-                "text": "Mon Mar 16th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "pphat.netlify.app",
-                    "total_seconds": 18340.362,
-                    "ai_additions": 0,
-                    "ai_deletions": 1,
-                    "human_additions": 356,
-                    "human_deletions": 219,
-                    "color": null,
-                    "digital": "5:05:40",
-                    "decimal": "5.08",
-                    "text": "5 hrs 5 mins",
-                    "hours": 5,
-                    "minutes": 5,
-                    "seconds": 40,
-                    "percent": 66.57
-                },
-                {
-                    "name": "erp-expo",
-                    "total_seconds": 9211.267,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 185,
-                    "human_deletions": 92,
-                    "color": null,
-                    "digital": "2:33:31",
-                    "decimal": "2.55",
-                    "text": "2 hrs 33 mins",
-                    "hours": 2,
-                    "minutes": 33,
-                    "seconds": 31,
-                    "percent": 33.43
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -109,6 +56,79 @@
                     "minutes": 5,
                     "seconds": 17,
                     "percent": 1.15
+                }
+            ],
+            "grand_total": {
+                "hours": 7,
+                "minutes": 39,
+                "total_seconds": 27551.629,
+                "digital": "7:39",
+                "decimal": "7.65",
+                "text": "7 hrs 39 mins",
+                "ai_additions": 0,
+                "ai_deletions": 1,
+                "human_additions": 541,
+                "human_deletions": 311
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 27551.629,
+                    "digital": "7:39:11",
+                    "decimal": "7.65",
+                    "text": "7 hrs 39 mins",
+                    "hours": 7,
+                    "minutes": 39,
+                    "seconds": 11,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 27551.629,
+                    "digital": "7:39:11",
+                    "decimal": "7.65",
+                    "text": "7 hrs 39 mins",
+                    "hours": 7,
+                    "minutes": 39,
+                    "seconds": 11,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 17875.039,
+                    "digital": "4:57:55",
+                    "decimal": "4.95",
+                    "text": "4 hrs 57 mins",
+                    "hours": 4,
+                    "minutes": 57,
+                    "seconds": 55,
+                    "percent": 64.88
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 9236.624,
+                    "digital": "2:33:56",
+                    "decimal": "2.55",
+                    "text": "2 hrs 33 mins",
+                    "hours": 2,
+                    "minutes": 33,
+                    "seconds": 56,
+                    "percent": 33.52
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 439.966,
+                    "digital": "0:07:19",
+                    "decimal": "0.12",
+                    "text": "7 mins",
+                    "hours": 0,
+                    "minutes": 7,
+                    "seconds": 19,
+                    "percent": 1.6
                 }
             ],
             "dependencies": [
@@ -2251,67 +2271,47 @@
                     "percent": 6.91
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 27551.629,
-                    "digital": "7:39:11",
-                    "decimal": "7.65",
-                    "text": "7 hrs 39 mins",
-                    "hours": 7,
-                    "minutes": 39,
-                    "seconds": 11,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 27551.629,
-                    "digital": "7:39:11",
-                    "decimal": "7.65",
-                    "text": "7 hrs 39 mins",
-                    "hours": 7,
-                    "minutes": 39,
-                    "seconds": 11,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 17875.039,
-                    "digital": "4:57:55",
-                    "decimal": "4.95",
-                    "text": "4 hrs 57 mins",
-                    "hours": 4,
-                    "minutes": 57,
-                    "seconds": 55,
-                    "percent": 64.88
+                    "name": "pphat.netlify.app",
+                    "total_seconds": 18340.362,
+                    "ai_additions": 0,
+                    "ai_deletions": 1,
+                    "human_additions": 356,
+                    "human_deletions": 219,
+                    "color": null,
+                    "digital": "5:05:40",
+                    "decimal": "5.08",
+                    "text": "5 hrs 5 mins",
+                    "hours": 5,
+                    "minutes": 5,
+                    "seconds": 40,
+                    "percent": 66.57
                 },
                 {
-                    "name": "Writing Docs",
-                    "total_seconds": 9236.624,
-                    "digital": "2:33:56",
+                    "name": "erp-expo",
+                    "total_seconds": 9211.267,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 185,
+                    "human_deletions": 92,
+                    "color": null,
+                    "digital": "2:33:31",
                     "decimal": "2.55",
                     "text": "2 hrs 33 mins",
                     "hours": 2,
                     "minutes": 33,
-                    "seconds": 56,
-                    "percent": 33.52
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 439.966,
-                    "digital": "0:07:19",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 19,
-                    "percent": 1.6
+                    "seconds": 31,
+                    "percent": 33.43
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-03-15T17:00:00Z",
+                "end": "2026-03-16T16:59:59Z",
+                "date": "2026-03-16",
+                "text": "Mon Mar 16th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-03-15T17:00:00Z",
