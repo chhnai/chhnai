@@ -1,91 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 7,
-                "minutes": 57,
-                "total_seconds": 28668.081,
-                "digital": "7:57",
-                "decimal": "7.95",
-                "text": "7 hrs 57 mins",
-                "ai_additions": 177,
-                "ai_deletions": 42,
-                "human_additions": 517,
-                "human_deletions": 414
-            },
-            "range": {
-                "start": "2026-04-06T17:00:00Z",
-                "end": "2026-04-07T16:59:59Z",
-                "date": "2026-04-07",
-                "text": "Tue Apr 7th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "UAT",
-                    "total_seconds": 13796.226,
-                    "ai_additions": 5,
-                    "ai_deletions": 42,
-                    "human_additions": 122,
-                    "human_deletions": 65,
-                    "color": null,
-                    "digital": "3:49:56",
-                    "decimal": "3.82",
-                    "text": "3 hrs 49 mins",
-                    "hours": 3,
-                    "minutes": 49,
-                    "seconds": 56,
-                    "percent": 48.12
-                },
-                {
-                    "name": "stats.pphat.top",
-                    "total_seconds": 10270.656,
-                    "ai_additions": 172,
-                    "ai_deletions": 0,
-                    "human_additions": 375,
-                    "human_deletions": 340,
-                    "color": null,
-                    "digital": "2:51:10",
-                    "decimal": "2.85",
-                    "text": "2 hrs 51 mins",
-                    "hours": 2,
-                    "minutes": 51,
-                    "seconds": 10,
-                    "percent": 35.83
-                },
-                {
-                    "name": "TurbotechAPI_PostgreSQL_tenant",
-                    "total_seconds": 2929.122,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 9,
-                    "human_deletions": 0,
-                    "color": null,
-                    "digital": "0:48:49",
-                    "decimal": "0.80",
-                    "text": "48 mins",
-                    "hours": 0,
-                    "minutes": 48,
-                    "seconds": 49,
-                    "percent": 10.22
-                },
-                {
-                    "name": "accounting-system",
-                    "total_seconds": 1672.077,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 11,
-                    "human_deletions": 9,
-                    "color": null,
-                    "digital": "0:27:52",
-                    "decimal": "0.45",
-                    "text": "27 mins",
-                    "hours": 0,
-                    "minutes": 27,
-                    "seconds": 52,
-                    "percent": 5.83
-                }
-            ],
             "languages": [
                 {
                     "name": "Other",
@@ -251,6 +166,90 @@
                     "minutes": 0,
                     "seconds": 6,
                     "percent": 0.02
+                }
+            ],
+            "grand_total": {
+                "hours": 7,
+                "minutes": 57,
+                "total_seconds": 28668.081,
+                "digital": "7:57",
+                "decimal": "7.95",
+                "text": "7 hrs 57 mins",
+                "ai_additions": 177,
+                "ai_deletions": 42,
+                "human_additions": 517,
+                "human_deletions": 414
+            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 28668.081,
+                    "digital": "7:57:48",
+                    "decimal": "7.95",
+                    "text": "7 hrs 57 mins",
+                    "hours": 7,
+                    "minutes": 57,
+                    "seconds": 48,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 28668.081,
+                    "digital": "7:57:48",
+                    "decimal": "7.95",
+                    "text": "7 hrs 57 mins",
+                    "hours": 7,
+                    "minutes": 57,
+                    "seconds": 48,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 20047.234,
+                    "digital": "5:34:07",
+                    "decimal": "5.57",
+                    "text": "5 hrs 34 mins",
+                    "hours": 5,
+                    "minutes": 34,
+                    "seconds": 7,
+                    "percent": 69.93
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 4254.317,
+                    "digital": "1:10:54",
+                    "decimal": "1.17",
+                    "text": "1 hr 10 mins",
+                    "hours": 1,
+                    "minutes": 10,
+                    "seconds": 54,
+                    "percent": 14.84
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 3445.007,
+                    "digital": "0:57:25",
+                    "decimal": "0.95",
+                    "text": "57 mins",
+                    "hours": 0,
+                    "minutes": 57,
+                    "seconds": 25,
+                    "percent": 12.02
+                },
+                {
+                    "name": "Writing Tests",
+                    "total_seconds": 921.523,
+                    "digital": "0:15:21",
+                    "decimal": "0.25",
+                    "text": "15 mins",
+                    "hours": 0,
+                    "minutes": 15,
+                    "seconds": 21,
+                    "percent": 3.21
                 }
             ],
             "dependencies": [
@@ -1557,78 +1556,79 @@
                     "percent": 5.93
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "VS Code",
-                    "total_seconds": 28668.081,
-                    "digital": "7:57:48",
-                    "decimal": "7.95",
-                    "text": "7 hrs 57 mins",
-                    "hours": 7,
-                    "minutes": 57,
-                    "seconds": 48,
-                    "percent": 100.0
+                    "name": "UAT",
+                    "total_seconds": 13796.226,
+                    "ai_additions": 5,
+                    "ai_deletions": 42,
+                    "human_additions": 122,
+                    "human_deletions": 65,
+                    "color": null,
+                    "digital": "3:49:56",
+                    "decimal": "3.82",
+                    "text": "3 hrs 49 mins",
+                    "hours": 3,
+                    "minutes": 49,
+                    "seconds": 56,
+                    "percent": 48.12
+                },
+                {
+                    "name": "stats.pphat.top",
+                    "total_seconds": 10270.656,
+                    "ai_additions": 172,
+                    "ai_deletions": 0,
+                    "human_additions": 375,
+                    "human_deletions": 340,
+                    "color": null,
+                    "digital": "2:51:10",
+                    "decimal": "2.85",
+                    "text": "2 hrs 51 mins",
+                    "hours": 2,
+                    "minutes": 51,
+                    "seconds": 10,
+                    "percent": 35.83
+                },
+                {
+                    "name": "TurbotechAPI_PostgreSQL_tenant",
+                    "total_seconds": 2929.122,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 9,
+                    "human_deletions": 0,
+                    "color": null,
+                    "digital": "0:48:49",
+                    "decimal": "0.80",
+                    "text": "48 mins",
+                    "hours": 0,
+                    "minutes": 48,
+                    "seconds": 49,
+                    "percent": 10.22
+                },
+                {
+                    "name": "accounting-system",
+                    "total_seconds": 1672.077,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 11,
+                    "human_deletions": 9,
+                    "color": null,
+                    "digital": "0:27:52",
+                    "decimal": "0.45",
+                    "text": "27 mins",
+                    "hours": 0,
+                    "minutes": 27,
+                    "seconds": 52,
+                    "percent": 5.83
                 }
             ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 28668.081,
-                    "digital": "7:57:48",
-                    "decimal": "7.95",
-                    "text": "7 hrs 57 mins",
-                    "hours": 7,
-                    "minutes": 57,
-                    "seconds": 48,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 20047.234,
-                    "digital": "5:34:07",
-                    "decimal": "5.57",
-                    "text": "5 hrs 34 mins",
-                    "hours": 5,
-                    "minutes": 34,
-                    "seconds": 7,
-                    "percent": 69.93
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 4254.317,
-                    "digital": "1:10:54",
-                    "decimal": "1.17",
-                    "text": "1 hr 10 mins",
-                    "hours": 1,
-                    "minutes": 10,
-                    "seconds": 54,
-                    "percent": 14.84
-                },
-                {
-                    "name": "AI Coding",
-                    "total_seconds": 3445.007,
-                    "digital": "0:57:25",
-                    "decimal": "0.95",
-                    "text": "57 mins",
-                    "hours": 0,
-                    "minutes": 57,
-                    "seconds": 25,
-                    "percent": 12.02
-                },
-                {
-                    "name": "Writing Tests",
-                    "total_seconds": 921.523,
-                    "digital": "0:15:21",
-                    "decimal": "0.25",
-                    "text": "15 mins",
-                    "hours": 0,
-                    "minutes": 15,
-                    "seconds": 21,
-                    "percent": 3.21
-                }
-            ]
+            "range": {
+                "start": "2026-04-06T17:00:00Z",
+                "end": "2026-04-07T16:59:59Z",
+                "date": "2026-04-07",
+                "text": "Tue Apr 7th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-04-06T17:00:00Z",
