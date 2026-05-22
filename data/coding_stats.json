@@ -1,84 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 2,
-                "minutes": 56,
-                "total_seconds": 10616.625,
-                "digital": "2:56",
-                "decimal": "2.93",
-                "text": "2 hrs 56 mins",
-                "ai_additions": 0,
-                "ai_deletions": 0,
-                "human_additions": 1160,
-                "human_deletions": 142,
-                "ai_agent_line_changes": {},
-                "ai_input_tokens": 0,
-                "ai_output_tokens": 0,
-                "ai_prompt_length_avg": 0,
-                "ai_prompt_length_sum": 0,
-                "ai_prompt_events": 0,
-                "ai_agent_costs": {}
-            },
-            "range": {
-                "start": "2026-05-20T17:00:00Z",
-                "end": "2026-05-21T16:59:59Z",
-                "date": "2026-05-21",
-                "text": "Thu May 21st 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "erp-apps",
-                    "total_seconds": 9873.61,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 1157,
-                    "human_deletions": 138,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "color": null,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "2:44:33",
-                    "decimal": "2.73",
-                    "text": "2 hrs 44 mins",
-                    "hours": 2,
-                    "minutes": 44,
-                    "seconds": 33,
-                    "percent": 93.0
-                },
-                {
-                    "name": "standard-template",
-                    "total_seconds": 743.015,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 3,
-                    "human_deletions": 4,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events": 0,
-                    "color": null,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "digital": "0:12:23",
-                    "decimal": "0.20",
-                    "text": "12 mins",
-                    "hours": 0,
-                    "minutes": 12,
-                    "seconds": 23,
-                    "percent": 7.0
-                }
-            ],
             "languages": [
                 {
                     "name": "Markdown",
@@ -189,6 +111,88 @@
                     "minutes": 0,
                     "seconds": 14,
                     "percent": 0.14
+                }
+            ],
+            "grand_total": {
+                "hours": 2,
+                "minutes": 56,
+                "total_seconds": 10616.625,
+                "digital": "2:56",
+                "decimal": "2.93",
+                "text": "2 hrs 56 mins",
+                "ai_additions": 0,
+                "ai_deletions": 0,
+                "human_additions": 1160,
+                "human_deletions": 142,
+                "ai_agent_line_changes": {},
+                "ai_input_tokens": 0,
+                "ai_output_tokens": 0,
+                "ai_prompt_length_avg": 0,
+                "ai_prompt_length_sum": 0,
+                "ai_prompt_events": 0,
+                "ai_agent_costs": {}
+            },
+            "editors": [
+                {
+                    "name": "Antigravity",
+                    "total_seconds": 10616.625,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 1160,
+                    "human_deletions": 142,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events": 0,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "digital": "2:56:56",
+                    "decimal": "2.93",
+                    "text": "2 hrs 56 mins",
+                    "hours": 2,
+                    "minutes": 56,
+                    "seconds": 56,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 10616.625,
+                    "digital": "2:56:56",
+                    "decimal": "2.93",
+                    "text": "2 hrs 56 mins",
+                    "hours": 2,
+                    "minutes": 56,
+                    "seconds": 56,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 7490.776,
+                    "digital": "2:04:50",
+                    "decimal": "2.07",
+                    "text": "2 hrs 4 mins",
+                    "hours": 2,
+                    "minutes": 4,
+                    "seconds": 50,
+                    "percent": 70.56
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 3125.849,
+                    "digital": "0:52:05",
+                    "decimal": "0.87",
+                    "text": "52 mins",
+                    "hours": 0,
+                    "minutes": 52,
+                    "seconds": 5,
+                    "percent": 29.44
                 }
             ],
             "dependencies": [
@@ -416,69 +420,65 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "Antigravity",
-                    "total_seconds": 10616.625,
+                    "name": "erp-apps",
+                    "total_seconds": 9873.61,
                     "ai_additions": 0,
                     "ai_deletions": 0,
-                    "human_additions": 1160,
-                    "human_deletions": 142,
+                    "human_additions": 1157,
+                    "human_deletions": 138,
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
                     "ai_prompt_length_sum": 0,
                     "ai_prompt_events": 0,
+                    "color": null,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
                     "ai_prompt_length_avg": 0,
-                    "digital": "2:56:56",
-                    "decimal": "2.93",
-                    "text": "2 hrs 56 mins",
+                    "digital": "2:44:33",
+                    "decimal": "2.73",
+                    "text": "2 hrs 44 mins",
                     "hours": 2,
-                    "minutes": 56,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 10616.625,
-                    "digital": "2:56:56",
-                    "decimal": "2.93",
-                    "text": "2 hrs 56 mins",
-                    "hours": 2,
-                    "minutes": 56,
-                    "seconds": 56,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 7490.776,
-                    "digital": "2:04:50",
-                    "decimal": "2.07",
-                    "text": "2 hrs 4 mins",
-                    "hours": 2,
-                    "minutes": 4,
-                    "seconds": 50,
-                    "percent": 70.56
+                    "minutes": 44,
+                    "seconds": 33,
+                    "percent": 93.0
                 },
                 {
-                    "name": "Writing Docs",
-                    "total_seconds": 3125.849,
-                    "digital": "0:52:05",
-                    "decimal": "0.87",
-                    "text": "52 mins",
+                    "name": "standard-template",
+                    "total_seconds": 743.015,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 3,
+                    "human_deletions": 4,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events": 0,
+                    "color": null,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "digital": "0:12:23",
+                    "decimal": "0.20",
+                    "text": "12 mins",
                     "hours": 0,
-                    "minutes": 52,
-                    "seconds": 5,
-                    "percent": 29.44
+                    "minutes": 12,
+                    "seconds": 23,
+                    "percent": 7.0
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-05-20T17:00:00Z",
+                "end": "2026-05-21T16:59:59Z",
+                "date": "2026-05-21",
+                "text": "Thu May 21st 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-05-20T17:00:00Z",
