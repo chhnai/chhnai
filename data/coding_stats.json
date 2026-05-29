@@ -15,8 +15,8 @@
                 "ai_agent_line_changes": {},
                 "ai_input_tokens": 0,
                 "ai_output_tokens": 0,
-                "ai_prompt_length_sum": 124,
-                "ai_prompt_events_total": 62,
+                "ai_prompt_length_sum": 302,
+                "ai_prompt_events_total": 151,
                 "ai_sessions": 1,
                 "ai_agent_costs": {
                     "Claude": 0.004467
@@ -30,8 +30,8 @@
                 ],
                 "ai_agent_total_cost": 0.004467,
                 "ai_prompt_length_avg": 2,
-                "ai_prompt_events_avg_per_session": 62,
-                "ai_prompt_events_median_per_session": 62,
+                "ai_prompt_events_avg_per_session": 151,
+                "ai_prompt_events_median_per_session": 151,
                 "ai_prompt_length_avg_per_session": 2,
                 "ai_prompt_length_median_per_session": 2
             },
@@ -173,8 +173,8 @@
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 124,
-                    "ai_prompt_events_total": 62,
+                    "ai_prompt_length_sum": 302,
+                    "ai_prompt_events_total": 151,
                     "color": null,
                     "ai_agent_costs": {
                         "Claude": 0.004467
@@ -190,8 +190,8 @@
                     "ai_prompt_length_avg": 2,
                     "ai_prompt_length_avg_per_session": 2,
                     "ai_prompt_length_median_per_session": 2,
-                    "ai_prompt_events_avg_per_session": 62,
-                    "ai_prompt_events_median_per_session": 62,
+                    "ai_prompt_events_avg_per_session": 151,
+                    "ai_prompt_events_median_per_session": 151,
                     "ai_sessions": 1,
                     "digital": "0:01:59",
                     "decimal": "0.02",
@@ -550,17 +550,17 @@
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
+                    "ai_prompt_length_sum": 2,
+                    "ai_prompt_events_total": 1,
                     "ai_agent_costs": {},
                     "ai_agent_breakdown": [],
                     "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
+                    "ai_prompt_length_avg": 2,
+                    "ai_prompt_length_avg_per_session": 2,
+                    "ai_prompt_length_median_per_session": 2,
+                    "ai_prompt_events_avg_per_session": 1,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 1,
                     "digital": "6:23:59",
                     "decimal": "6.38",
                     "text": "6 hrs 23 mins",
@@ -570,8 +570,8 @@
                     "percent": 99.48
                 },
                 {
-                    "name": "Antigravityide",
-                    "total_seconds": 119.651,
+                    "name": "Claude Code",
+                    "total_seconds": 92.651,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 0,
@@ -579,36 +579,36 @@
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 118,
-                    "ai_prompt_events_total": 59,
+                    "ai_prompt_length_sum": 126,
+                    "ai_prompt_events_total": 63,
                     "ai_agent_costs": {
-                        "Claude": 0.004467
+                        "Claude": 0.003459
                     },
                     "ai_agent_breakdown": [
                         {
                             "name": "Claude",
                             "lines": 0,
-                            "cost": 0.004467
+                            "cost": 0.003459
                         }
                     ],
-                    "ai_agent_total_cost": 0.004467,
+                    "ai_agent_total_cost": 0.003459,
                     "ai_prompt_length_avg": 2,
                     "ai_prompt_length_avg_per_session": 2,
                     "ai_prompt_length_median_per_session": 2,
-                    "ai_prompt_events_avg_per_session": 59,
-                    "ai_prompt_events_median_per_session": 59,
+                    "ai_prompt_events_avg_per_session": 63,
+                    "ai_prompt_events_median_per_session": 63,
                     "ai_sessions": 1,
-                    "digital": "0:01:59",
+                    "digital": "0:01:32",
                     "decimal": "0.02",
                     "text": "1 min",
                     "hours": 0,
                     "minutes": 1,
-                    "seconds": 59,
-                    "percent": 0.52
+                    "seconds": 32,
+                    "percent": 0.4
                 },
                 {
-                    "name": "Claude Code",
-                    "total_seconds": 0.0,
+                    "name": "Antigravityide",
+                    "total_seconds": 27.0,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 0,
@@ -616,24 +616,32 @@
                     "ai_agent_line_changes": {},
                     "ai_input_tokens": 0,
                     "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 6,
-                    "ai_prompt_events_total": 3,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_sum": 174,
+                    "ai_prompt_events_total": 87,
+                    "ai_agent_costs": {
+                        "Claude": 0.001008
+                    },
+                    "ai_agent_breakdown": [
+                        {
+                            "name": "Claude",
+                            "lines": 0,
+                            "cost": 0.001008
+                        }
+                    ],
+                    "ai_agent_total_cost": 0.001008,
                     "ai_prompt_length_avg": 2,
                     "ai_prompt_length_avg_per_session": 2,
                     "ai_prompt_length_median_per_session": 2,
-                    "ai_prompt_events_avg_per_session": 3,
-                    "ai_prompt_events_median_per_session": 3,
+                    "ai_prompt_events_avg_per_session": 87,
+                    "ai_prompt_events_median_per_session": 87,
                     "ai_sessions": 1,
-                    "digital": "0:00:00",
+                    "digital": "0:00:27",
                     "decimal": "0.00",
-                    "text": "0 secs",
+                    "text": "27 secs",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 0,
-                    "percent": 0.0
+                    "seconds": 27,
+                    "percent": 0.12
                 }
             ],
             "operating_systems": [
