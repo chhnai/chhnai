@@ -1,6 +1,41 @@
 {
     "data": [
         {
+            "languages": [
+                {
+                    "name": "Vue",
+                    "total_seconds": 2846.514,
+                    "digital": "0:47:26",
+                    "decimal": "0.78",
+                    "text": "47 mins",
+                    "hours": 0,
+                    "minutes": 47,
+                    "seconds": 26,
+                    "percent": 63.0
+                },
+                {
+                    "name": "Markdown",
+                    "total_seconds": 1070.157,
+                    "digital": "0:17:50",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 50,
+                    "percent": 23.68
+                },
+                {
+                    "name": "PHP",
+                    "total_seconds": 601.934,
+                    "digital": "0:10:01",
+                    "decimal": "0.17",
+                    "text": "10 mins",
+                    "hours": 0,
+                    "minutes": 10,
+                    "seconds": 1,
+                    "percent": 13.32
+                }
+            ],
             "grand_total": {
                 "hours": 1,
                 "minutes": 15,
@@ -27,13 +62,101 @@
                 "ai_prompt_length_avg_per_session": 0,
                 "ai_prompt_length_median_per_session": 0
             },
-            "range": {
-                "start": "2026-06-05T17:00:00Z",
-                "end": "2026-06-06T16:59:59Z",
-                "date": "2026-06-06",
-                "text": "Sat Jun 6th 2026",
-                "timezone": "Asia/Bangkok"
-            },
+            "editors": [
+                {
+                    "name": "VS Code",
+                    "total_seconds": 4518.605,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 90,
+                    "human_deletions": 72,
+                    "ai_agent_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "ai_agent_costs": {},
+                    "ai_agent_breakdown": [],
+                    "ai_agent_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "1:15:18",
+                    "decimal": "1.25",
+                    "text": "1 hr 15 mins",
+                    "hours": 1,
+                    "minutes": 15,
+                    "seconds": 18,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 4518.605,
+                    "digital": "1:15:18",
+                    "decimal": "1.25",
+                    "text": "1 hr 15 mins",
+                    "hours": 1,
+                    "minutes": 15,
+                    "seconds": 18,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 3448.448,
+                    "digital": "0:57:28",
+                    "decimal": "0.95",
+                    "text": "57 mins",
+                    "hours": 0,
+                    "minutes": 57,
+                    "seconds": 28,
+                    "percent": 76.32
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 1070.157,
+                    "digital": "0:17:50",
+                    "decimal": "0.28",
+                    "text": "17 mins",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 50,
+                    "percent": 23.68
+                }
+            ],
+            "dependencies": [
+                {
+                    "name": "Illuminate",
+                    "total_seconds": 25.817,
+                    "digital": "0:00:25",
+                    "decimal": "0.00",
+                    "text": "25 secs",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "percent": 100.0
+                }
+            ],
+            "machines": [
+                {
+                    "name": "TT-FRONT-END-01",
+                    "total_seconds": 4518.605,
+                    "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
+                    "digital": "1:15:18",
+                    "decimal": "1.25",
+                    "text": "1 hr 15 mins",
+                    "hours": 1,
+                    "minutes": 15,
+                    "seconds": 18,
+                    "percent": 100.0
+                }
+            ],
             "projects": [
                 {
                     "name": "erp-apps",
@@ -126,136 +249,13 @@
                     "percent": 0.0
                 }
             ],
-            "languages": [
-                {
-                    "name": "Vue",
-                    "total_seconds": 2846.514,
-                    "digital": "0:47:26",
-                    "decimal": "0.78",
-                    "text": "47 mins",
-                    "hours": 0,
-                    "minutes": 47,
-                    "seconds": 26,
-                    "percent": 63.0
-                },
-                {
-                    "name": "Markdown",
-                    "total_seconds": 1070.157,
-                    "digital": "0:17:50",
-                    "decimal": "0.28",
-                    "text": "17 mins",
-                    "hours": 0,
-                    "minutes": 17,
-                    "seconds": 50,
-                    "percent": 23.68
-                },
-                {
-                    "name": "PHP",
-                    "total_seconds": 601.934,
-                    "digital": "0:10:01",
-                    "decimal": "0.17",
-                    "text": "10 mins",
-                    "hours": 0,
-                    "minutes": 10,
-                    "seconds": 1,
-                    "percent": 13.32
-                }
-            ],
-            "dependencies": [
-                {
-                    "name": "Illuminate",
-                    "total_seconds": 25.817,
-                    "digital": "0:00:25",
-                    "decimal": "0.00",
-                    "text": "25 secs",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 25,
-                    "percent": 100.0
-                }
-            ],
-            "machines": [
-                {
-                    "name": "TT-FRONT-END-01",
-                    "total_seconds": 4518.605,
-                    "machine_name_id": "107f0bc7-4c51-4bd8-83cc-5806773b4ca9",
-                    "digital": "1:15:18",
-                    "decimal": "1.25",
-                    "text": "1 hr 15 mins",
-                    "hours": 1,
-                    "minutes": 15,
-                    "seconds": 18,
-                    "percent": 100.0
-                }
-            ],
-            "editors": [
-                {
-                    "name": "VS Code",
-                    "total_seconds": 4518.605,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 90,
-                    "human_deletions": 72,
-                    "ai_agent_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "ai_agent_costs": {},
-                    "ai_agent_breakdown": [],
-                    "ai_agent_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
-                    "digital": "1:15:18",
-                    "decimal": "1.25",
-                    "text": "1 hr 15 mins",
-                    "hours": 1,
-                    "minutes": 15,
-                    "seconds": 18,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 4518.605,
-                    "digital": "1:15:18",
-                    "decimal": "1.25",
-                    "text": "1 hr 15 mins",
-                    "hours": 1,
-                    "minutes": 15,
-                    "seconds": 18,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 3448.448,
-                    "digital": "0:57:28",
-                    "decimal": "0.95",
-                    "text": "57 mins",
-                    "hours": 0,
-                    "minutes": 57,
-                    "seconds": 28,
-                    "percent": 76.32
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 1070.157,
-                    "digital": "0:17:50",
-                    "decimal": "0.28",
-                    "text": "17 mins",
-                    "hours": 0,
-                    "minutes": 17,
-                    "seconds": 50,
-                    "percent": 23.68
-                }
-            ]
+            "range": {
+                "start": "2026-06-05T17:00:00Z",
+                "end": "2026-06-06T16:59:59Z",
+                "date": "2026-06-06",
+                "text": "Sat Jun 6th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-06-05T17:00:00Z",
