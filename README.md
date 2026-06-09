@@ -43,9 +43,7 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 
 <!--START_SECTION:daily-->
 ```diff
-████████████████░░░░░░░░░ ⁝ 63.0% • Vue
-██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.68% • Markdown
-███░░░░░░░░░░░░░░░░░░░░░░ ⁝ 13.32% • PHP
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0% • CSS
 ```
 <!--END_SECTION:daily-->
 
