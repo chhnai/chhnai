@@ -43,7 +43,10 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████████████████ ⁝ 100.0% • PHP
+█████████████░░░░░░░░░░░░ ⁝ 53.09% • YAML
+███████████░░░░░░░░░░░░░░ ⁝ 42.51% • Markdown
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.08% • Python
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.32% • Bash
 ```
 <!--END_SECTION:daily-->
 
