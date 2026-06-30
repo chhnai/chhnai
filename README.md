@@ -49,7 +49,6 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.2% • Markdown
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.19% • CSS
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.02% • Text
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • Other
 ```
 <!--END_SECTION:daily-->
 
