@@ -43,11 +43,11 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 53.75% • JavaScript
+██████████████░░░░░░░░░░░ ⁝ 54.47% • JavaScript
 ██████░░░░░░░░░░░░░░░░░░░ ⁝ 24.16% • Blade Template
 ████░░░░░░░░░░░░░░░░░░░░░ ⁝ 17.99% • PHP
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.94% • JSON
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.09% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.37% • Other
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.06% • CSS
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.01% • TypeScript
 ```
