@@ -46,7 +46,6 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 ███████████████░░░░░░░░░░ ⁝ 58.26% • PHP
 ███████░░░░░░░░░░░░░░░░░░ ⁝ 26.18% • JavaScript
 ████░░░░░░░░░░░░░░░░░░░░░ ⁝ 15.56% • Blade Template
-░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.0% • Other
 ```
 <!--END_SECTION:daily-->
 
