@@ -1,201 +1,6 @@
 {
     "data": [
         {
-            "grand_total": {
-                "hours": 4,
-                "minutes": 50,
-                "total_seconds": 17451.874785,
-                "digital": "4:50",
-                "decimal": "4.83",
-                "text": "4 hrs 50 mins",
-                "ai_additions": 1776,
-                "ai_deletions": 96,
-                "human_additions": 146,
-                "human_deletions": 1426,
-                "ai_model_line_changes": {
-                    "Gemini": 850,
-                    "Antigravity-Ide": 1022
-                },
-                "ai_input_tokens": 4049308,
-                "ai_cached_input_tokens": 0,
-                "ai_output_tokens": 334714,
-                "ai_prompt_length_sum": 7232,
-                "ai_prompt_events_total": 62,
-                "ai_sessions": 9,
-                "ai_model_costs": {
-                    "Antigravity-Ide": 17.168634
-                },
-                "ai_model_breakdown": [
-                    {
-                        "name": "Antigravity-Ide",
-                        "lines": 1022,
-                        "cost": 17.168634,
-                        "input_tokens": 4049308,
-                        "output_tokens": 334714,
-                        "cached_input_tokens": 0
-                    },
-                    {
-                        "name": "Gemini",
-                        "lines": 850,
-                        "cost": 0.0,
-                        "input_tokens": 0,
-                        "output_tokens": 0,
-                        "cached_input_tokens": 0
-                    }
-                ],
-                "ai_model_total_cost": 17.168634,
-                "ai_prompt_length_avg": 117,
-                "ai_prompt_events_avg_per_session": 7,
-                "ai_prompt_events_median_per_session": 1,
-                "ai_prompt_length_avg_per_session": 197,
-                "ai_prompt_length_median_per_session": 217
-            },
-            "range": {
-                "start": "2026-10-04T17:00:00Z",
-                "end": "2026-10-05T16:59:59Z",
-                "date": "2026-10-05",
-                "text": "Mon Oct 5th 2026",
-                "timezone": "Asia/Bangkok"
-            },
-            "projects": [
-                {
-                    "name": "Storage-Service",
-                    "total_seconds": 8802.294,
-                    "ai_additions": 82,
-                    "ai_deletions": 3,
-                    "human_additions": 17,
-                    "human_deletions": 100,
-                    "ai_model_line_changes": {
-                        "Gemini": 43,
-                        "Antigravity-Ide": 42
-                    },
-                    "ai_input_tokens": 614302,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 83146,
-                    "ai_prompt_length_sum": 3256,
-                    "ai_prompt_events_total": 15,
-                    "color": null,
-                    "ai_model_costs": {
-                        "Antigravity-Ide": 3.090096
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Gemini",
-                            "lines": 43,
-                            "cost": 0.0,
-                            "input_tokens": 0,
-                            "output_tokens": 0,
-                            "cached_input_tokens": 0
-                        },
-                        {
-                            "name": "Antigravity-Ide",
-                            "lines": 42,
-                            "cost": 3.090096,
-                            "input_tokens": 614302,
-                            "output_tokens": 83146,
-                            "cached_input_tokens": 0
-                        }
-                    ],
-                    "ai_model_total_cost": 3.090096,
-                    "ai_prompt_length_avg": 217,
-                    "ai_prompt_length_avg_per_session": 217,
-                    "ai_prompt_length_median_per_session": 217,
-                    "ai_prompt_events_avg_per_session": 15,
-                    "ai_prompt_events_median_per_session": 15,
-                    "ai_sessions": 1,
-                    "digital": "2:26:42",
-                    "decimal": "2.43",
-                    "text": "2 hrs 26 mins",
-                    "hours": 2,
-                    "minutes": 26,
-                    "seconds": 42,
-                    "percent": 50.44
-                },
-                {
-                    "name": "stream",
-                    "total_seconds": 8213.896785,
-                    "ai_additions": 1694,
-                    "ai_deletions": 93,
-                    "human_additions": 129,
-                    "human_deletions": 1326,
-                    "ai_model_line_changes": {
-                        "Gemini": 807,
-                        "Antigravity-Ide": 980
-                    },
-                    "ai_input_tokens": 3435006,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 251568,
-                    "ai_prompt_length_sum": 3976,
-                    "ai_prompt_events_total": 47,
-                    "color": null,
-                    "ai_model_costs": {
-                        "Antigravity-Ide": 14.078538
-                    },
-                    "ai_model_breakdown": [
-                        {
-                            "name": "Antigravity-Ide",
-                            "lines": 980,
-                            "cost": 14.078538,
-                            "input_tokens": 3435006,
-                            "output_tokens": 251568,
-                            "cached_input_tokens": 0
-                        },
-                        {
-                            "name": "Gemini",
-                            "lines": 807,
-                            "cost": 0.0,
-                            "input_tokens": 0,
-                            "output_tokens": 0,
-                            "cached_input_tokens": 0
-                        }
-                    ],
-                    "ai_model_total_cost": 14.078538,
-                    "ai_prompt_length_avg": 85,
-                    "ai_prompt_length_avg_per_session": 195,
-                    "ai_prompt_length_median_per_session": 232,
-                    "ai_prompt_events_avg_per_session": 6,
-                    "ai_prompt_events_median_per_session": 1,
-                    "ai_sessions": 8,
-                    "digital": "2:16:53",
-                    "decimal": "2.27",
-                    "text": "2 hrs 16 mins",
-                    "hours": 2,
-                    "minutes": 16,
-                    "seconds": 53,
-                    "percent": 47.07
-                },
-                {
-                    "name": "red-ant-mobile-admin",
-                    "total_seconds": 435.684,
-                    "ai_additions": 0,
-                    "ai_deletions": 0,
-                    "human_additions": 0,
-                    "human_deletions": 0,
-                    "ai_model_line_changes": {},
-                    "ai_input_tokens": 0,
-                    "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 0,
-                    "ai_prompt_length_sum": 0,
-                    "ai_prompt_events_total": 0,
-                    "color": null,
-                    "ai_model_costs": {},
-                    "ai_model_breakdown": [],
-                    "ai_model_total_cost": 0,
-                    "ai_prompt_length_avg": 0,
-                    "ai_prompt_length_avg_per_session": 0,
-                    "ai_prompt_length_median_per_session": 0,
-                    "ai_prompt_events_avg_per_session": 0,
-                    "ai_prompt_events_median_per_session": 0,
-                    "ai_sessions": 0,
-                    "digital": "0:07:15",
-                    "decimal": "0.12",
-                    "text": "7 mins",
-                    "hours": 0,
-                    "minutes": 7,
-                    "seconds": 15,
-                    "percent": 2.5
-                }
-            ],
             "languages": [
                 {
                     "name": "TypeScript",
@@ -262,6 +67,157 @@
                     "minutes": 0,
                     "seconds": 3,
                     "percent": 0.02
+                }
+            ],
+            "grand_total": {
+                "hours": 4,
+                "minutes": 50,
+                "total_seconds": 17451.874785,
+                "digital": "4:50",
+                "decimal": "4.83",
+                "text": "4 hrs 50 mins",
+                "ai_additions": 1776,
+                "ai_deletions": 96,
+                "human_additions": 146,
+                "human_deletions": 1426,
+                "ai_model_line_changes": {
+                    "Gemini": 850,
+                    "Antigravity-Ide": 1022
+                },
+                "ai_input_tokens": 4049308,
+                "ai_cached_input_tokens": 0,
+                "ai_output_tokens": 334714,
+                "ai_prompt_length_sum": 7232,
+                "ai_prompt_events_total": 62,
+                "ai_sessions": 9,
+                "ai_model_costs": {
+                    "Antigravity-Ide": 17.168634
+                },
+                "ai_model_breakdown": [
+                    {
+                        "name": "Antigravity-Ide",
+                        "lines": 1022,
+                        "cost": 17.168634,
+                        "input_tokens": 4049308,
+                        "output_tokens": 334714,
+                        "cached_input_tokens": 0
+                    },
+                    {
+                        "name": "Gemini",
+                        "lines": 850,
+                        "cost": 0.0,
+                        "input_tokens": 0,
+                        "output_tokens": 0,
+                        "cached_input_tokens": 0
+                    }
+                ],
+                "ai_model_total_cost": 17.168634,
+                "ai_prompt_length_avg": 117,
+                "ai_prompt_events_avg_per_session": 7,
+                "ai_prompt_events_median_per_session": 1,
+                "ai_prompt_length_avg_per_session": 197,
+                "ai_prompt_length_median_per_session": 217
+            },
+            "editors": [
+                {
+                    "name": "Antigravity IDE",
+                    "total_seconds": 17451.874785,
+                    "ai_additions": 1776,
+                    "ai_deletions": 96,
+                    "human_additions": 146,
+                    "human_deletions": 1426,
+                    "ai_model_line_changes": {
+                        "Gemini": 850,
+                        "Antigravity-Ide": 1022
+                    },
+                    "ai_input_tokens": 4049308,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 334714,
+                    "ai_prompt_length_sum": 7232,
+                    "ai_prompt_events_total": 62,
+                    "ai_model_costs": {
+                        "Antigravity-Ide": 17.168634
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Antigravity-Ide",
+                            "lines": 1022,
+                            "cost": 17.168634,
+                            "input_tokens": 4049308,
+                            "output_tokens": 334714,
+                            "cached_input_tokens": 0
+                        },
+                        {
+                            "name": "Gemini",
+                            "lines": 850,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 17.168634,
+                    "ai_prompt_length_avg": 117,
+                    "ai_prompt_length_avg_per_session": 197,
+                    "ai_prompt_length_median_per_session": 217,
+                    "ai_prompt_events_avg_per_session": 7,
+                    "ai_prompt_events_median_per_session": 1,
+                    "ai_sessions": 9,
+                    "digital": "4:50:51",
+                    "decimal": "4.83",
+                    "text": "4 hrs 50 mins",
+                    "hours": 4,
+                    "minutes": 50,
+                    "seconds": 51,
+                    "percent": 100.0
+                }
+            ],
+            "operating_systems": [
+                {
+                    "name": "Windows",
+                    "total_seconds": 17451.874785,
+                    "digital": "4:50:51",
+                    "decimal": "4.83",
+                    "text": "4 hrs 50 mins",
+                    "hours": 4,
+                    "minutes": 50,
+                    "seconds": 51,
+                    "percent": 100.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Coding",
+                    "total_seconds": 8531.492986,
+                    "digital": "2:22:11",
+                    "decimal": "2.37",
+                    "text": "2 hrs 22 mins",
+                    "hours": 2,
+                    "minutes": 22,
+                    "seconds": 11,
+                    "percent": 48.89
+                },
+                {
+                    "name": "AI Coding",
+                    "total_seconds": 7422.929799,
+                    "digital": "2:03:42",
+                    "decimal": "2.05",
+                    "text": "2 hrs 3 mins",
+                    "hours": 2,
+                    "minutes": 3,
+                    "seconds": 42,
+                    "percent": 42.53
+                },
+                {
+                    "name": "Writing Docs",
+                    "total_seconds": 1497.452,
+                    "digital": "0:24:57",
+                    "decimal": "0.40",
+                    "text": "24 mins",
+                    "hours": 0,
+                    "minutes": 24,
+                    "seconds": 57,
+                    "percent": 8.58
                 }
             ],
             "dependencies": [
@@ -1699,108 +1655,152 @@
                     "percent": 100.0
                 }
             ],
-            "editors": [
+            "projects": [
                 {
-                    "name": "Antigravity IDE",
-                    "total_seconds": 17451.874785,
-                    "ai_additions": 1776,
-                    "ai_deletions": 96,
-                    "human_additions": 146,
-                    "human_deletions": 1426,
+                    "name": "Storage-Service",
+                    "total_seconds": 8802.294,
+                    "ai_additions": 82,
+                    "ai_deletions": 3,
+                    "human_additions": 17,
+                    "human_deletions": 100,
                     "ai_model_line_changes": {
-                        "Gemini": 850,
-                        "Antigravity-Ide": 1022
+                        "Gemini": 43,
+                        "Antigravity-Ide": 42
                     },
-                    "ai_input_tokens": 4049308,
+                    "ai_input_tokens": 614302,
                     "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 334714,
-                    "ai_prompt_length_sum": 7232,
-                    "ai_prompt_events_total": 62,
+                    "ai_output_tokens": 83146,
+                    "ai_prompt_length_sum": 3256,
+                    "ai_prompt_events_total": 15,
+                    "color": null,
                     "ai_model_costs": {
-                        "Antigravity-Ide": 17.168634
+                        "Antigravity-Ide": 3.090096
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 43,
+                            "cost": 0.0,
+                            "input_tokens": 0,
+                            "output_tokens": 0,
+                            "cached_input_tokens": 0
+                        },
+                        {
+                            "name": "Antigravity-Ide",
+                            "lines": 42,
+                            "cost": 3.090096,
+                            "input_tokens": 614302,
+                            "output_tokens": 83146,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 3.090096,
+                    "ai_prompt_length_avg": 217,
+                    "ai_prompt_length_avg_per_session": 217,
+                    "ai_prompt_length_median_per_session": 217,
+                    "ai_prompt_events_avg_per_session": 15,
+                    "ai_prompt_events_median_per_session": 15,
+                    "ai_sessions": 1,
+                    "digital": "2:26:42",
+                    "decimal": "2.43",
+                    "text": "2 hrs 26 mins",
+                    "hours": 2,
+                    "minutes": 26,
+                    "seconds": 42,
+                    "percent": 50.44
+                },
+                {
+                    "name": "stream",
+                    "total_seconds": 8213.896785,
+                    "ai_additions": 1694,
+                    "ai_deletions": 93,
+                    "human_additions": 129,
+                    "human_deletions": 1326,
+                    "ai_model_line_changes": {
+                        "Gemini": 807,
+                        "Antigravity-Ide": 980
+                    },
+                    "ai_input_tokens": 3435006,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 251568,
+                    "ai_prompt_length_sum": 3976,
+                    "ai_prompt_events_total": 47,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Antigravity-Ide": 14.078538
                     },
                     "ai_model_breakdown": [
                         {
                             "name": "Antigravity-Ide",
-                            "lines": 1022,
-                            "cost": 17.168634,
-                            "input_tokens": 4049308,
-                            "output_tokens": 334714,
+                            "lines": 980,
+                            "cost": 14.078538,
+                            "input_tokens": 3435006,
+                            "output_tokens": 251568,
                             "cached_input_tokens": 0
                         },
                         {
                             "name": "Gemini",
-                            "lines": 850,
+                            "lines": 807,
                             "cost": 0.0,
                             "input_tokens": 0,
                             "output_tokens": 0,
                             "cached_input_tokens": 0
                         }
                     ],
-                    "ai_model_total_cost": 17.168634,
-                    "ai_prompt_length_avg": 117,
-                    "ai_prompt_length_avg_per_session": 197,
-                    "ai_prompt_length_median_per_session": 217,
-                    "ai_prompt_events_avg_per_session": 7,
+                    "ai_model_total_cost": 14.078538,
+                    "ai_prompt_length_avg": 85,
+                    "ai_prompt_length_avg_per_session": 195,
+                    "ai_prompt_length_median_per_session": 232,
+                    "ai_prompt_events_avg_per_session": 6,
                     "ai_prompt_events_median_per_session": 1,
-                    "ai_sessions": 9,
-                    "digital": "4:50:51",
-                    "decimal": "4.83",
-                    "text": "4 hrs 50 mins",
-                    "hours": 4,
-                    "minutes": 50,
-                    "seconds": 51,
-                    "percent": 100.0
-                }
-            ],
-            "operating_systems": [
-                {
-                    "name": "Windows",
-                    "total_seconds": 17451.874785,
-                    "digital": "4:50:51",
-                    "decimal": "4.83",
-                    "text": "4 hrs 50 mins",
-                    "hours": 4,
-                    "minutes": 50,
-                    "seconds": 51,
-                    "percent": 100.0
-                }
-            ],
-            "categories": [
-                {
-                    "name": "Coding",
-                    "total_seconds": 8531.492986,
-                    "digital": "2:22:11",
-                    "decimal": "2.37",
-                    "text": "2 hrs 22 mins",
+                    "ai_sessions": 8,
+                    "digital": "2:16:53",
+                    "decimal": "2.27",
+                    "text": "2 hrs 16 mins",
                     "hours": 2,
-                    "minutes": 22,
-                    "seconds": 11,
-                    "percent": 48.89
+                    "minutes": 16,
+                    "seconds": 53,
+                    "percent": 47.07
                 },
                 {
-                    "name": "AI Coding",
-                    "total_seconds": 7422.929799,
-                    "digital": "2:03:42",
-                    "decimal": "2.05",
-                    "text": "2 hrs 3 mins",
-                    "hours": 2,
-                    "minutes": 3,
-                    "seconds": 42,
-                    "percent": 42.53
-                },
-                {
-                    "name": "Writing Docs",
-                    "total_seconds": 1497.452,
-                    "digital": "0:24:57",
-                    "decimal": "0.40",
-                    "text": "24 mins",
+                    "name": "red-ant-mobile-admin",
+                    "total_seconds": 435.684,
+                    "ai_additions": 0,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {},
+                    "ai_input_tokens": 0,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 0,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_model_costs": {},
+                    "ai_model_breakdown": [],
+                    "ai_model_total_cost": 0,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 0,
+                    "digital": "0:07:15",
+                    "decimal": "0.12",
+                    "text": "7 mins",
                     "hours": 0,
-                    "minutes": 24,
-                    "seconds": 57,
-                    "percent": 8.58
+                    "minutes": 7,
+                    "seconds": 15,
+                    "percent": 2.5
                 }
-            ]
+            ],
+            "range": {
+                "start": "2026-10-04T17:00:00Z",
+                "end": "2026-10-05T16:59:59Z",
+                "date": "2026-10-05",
+                "text": "Mon Oct 5th 2026",
+                "timezone": "Asia/Bangkok"
+            }
         }
     ],
     "start": "2026-10-04T17:00:00Z",
