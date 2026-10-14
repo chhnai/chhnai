@@ -8,29 +8,29 @@
                 "digital": "7:32",
                 "decimal": "7.53",
                 "text": "7 hrs 32 mins",
-                "ai_additions": 2176,
+                "ai_additions": 3024,
                 "ai_deletions": 4,
                 "human_additions": 3957,
                 "human_deletions": 243,
                 "ai_model_line_changes": {
-                    "Gemini": 2180
+                    "Gemini": 3028
                 },
-                "ai_input_tokens": 1397610,
+                "ai_input_tokens": 1433067,
                 "ai_cached_input_tokens": 0,
-                "ai_output_tokens": 206483,
-                "ai_prompt_length_sum": 3483,
-                "ai_prompt_events_total": 11,
-                "ai_sessions": 6,
+                "ai_output_tokens": 219835,
+                "ai_prompt_length_sum": 3527,
+                "ai_prompt_events_total": 12,
+                "ai_sessions": 7,
                 "ai_model_costs": {
-                    "Gemini": 4.93302
+                    "Gemini": 5.164158
                 },
                 "ai_model_breakdown": [
                     {
                         "name": "Gemini",
-                        "lines": 2180,
-                        "cost": 4.93302,
-                        "input_tokens": 1397610,
-                        "output_tokens": 206483,
+                        "lines": 3028,
+                        "cost": 5.164158,
+                        "input_tokens": 1433067,
+                        "output_tokens": 219835,
                         "cached_input_tokens": 0
                     },
                     {
@@ -50,12 +50,12 @@
                         "cached_input_tokens": 0
                     }
                 ],
-                "ai_model_total_cost": 4.93302,
-                "ai_prompt_length_avg": 317,
+                "ai_model_total_cost": 5.164158,
+                "ai_prompt_length_avg": 294,
                 "ai_prompt_events_avg_per_session": 2,
                 "ai_prompt_events_median_per_session": 2,
-                "ai_prompt_length_avg_per_session": 309,
-                "ai_prompt_length_median_per_session": 129
+                "ai_prompt_length_avg_per_session": 304,
+                "ai_prompt_length_median_per_session": 124
             },
             "range": {
                 "start": "2026-10-12T17:00:00Z",
@@ -67,19 +67,19 @@
             "projects": [
                 {
                     "name": "UniCart - E-Commerce Platform",
-                    "total_seconds": 18249.102303,
-                    "ai_additions": 2154,
+                    "total_seconds": 17982.539445,
+                    "ai_additions": 2161,
                     "ai_deletions": 0,
                     "human_additions": 1947,
                     "human_deletions": 197,
                     "ai_model_line_changes": {
-                        "Gemini": 2154
+                        "Gemini": 2161
                     },
                     "ai_input_tokens": 570974,
                     "ai_cached_input_tokens": 0,
                     "ai_output_tokens": 68739,
-                    "ai_prompt_length_sum": 333,
-                    "ai_prompt_events_total": 3,
+                    "ai_prompt_length_sum": 377,
+                    "ai_prompt_events_total": 4,
                     "color": null,
                     "ai_model_costs": {
                         "Gemini": 1.819859
@@ -87,7 +87,7 @@
                     "ai_model_breakdown": [
                         {
                             "name": "Gemini",
-                            "lines": 2154,
+                            "lines": 2161,
                             "cost": 1.819859,
                             "input_tokens": 570974,
                             "output_tokens": 68739,
@@ -95,23 +95,23 @@
                         }
                     ],
                     "ai_model_total_cost": 1.819859,
-                    "ai_prompt_length_avg": 111,
-                    "ai_prompt_length_avg_per_session": 118,
-                    "ai_prompt_length_median_per_session": 118,
+                    "ai_prompt_length_avg": 94,
+                    "ai_prompt_length_avg_per_session": 94,
+                    "ai_prompt_length_median_per_session": 94,
                     "ai_prompt_events_avg_per_session": 1,
-                    "ai_prompt_events_median_per_session": 1,
+                    "ai_prompt_events_median_per_session": 2,
                     "ai_sessions": 3,
-                    "digital": "5:04:09",
-                    "decimal": "5.07",
-                    "text": "5 hrs 4 mins",
-                    "hours": 5,
-                    "minutes": 4,
-                    "seconds": 9,
-                    "percent": 67.21
+                    "digital": "4:59:42",
+                    "decimal": "4.98",
+                    "text": "4 hrs 59 mins",
+                    "hours": 4,
+                    "minutes": 59,
+                    "seconds": 42,
+                    "percent": 66.23
                 },
                 {
                     "name": "red-ant-mobile-admin",
-                    "total_seconds": 8324.673,
+                    "total_seconds": 8117.153005,
                     "ai_additions": 22,
                     "ai_deletions": 4,
                     "human_additions": 2010,
@@ -161,17 +161,61 @@
                     "ai_prompt_events_avg_per_session": 2,
                     "ai_prompt_events_median_per_session": 2,
                     "ai_sessions": 4,
-                    "digital": "2:18:44",
-                    "decimal": "2.30",
-                    "text": "2 hrs 18 mins",
+                    "digital": "2:15:17",
+                    "decimal": "2.25",
+                    "text": "2 hrs 15 mins",
                     "hours": 2,
-                    "minutes": 18,
-                    "seconds": 44,
-                    "percent": 30.66
+                    "minutes": 15,
+                    "seconds": 17,
+                    "percent": 29.9
+                },
+                {
+                    "name": "TechGets",
+                    "total_seconds": 550.38988,
+                    "ai_additions": 841,
+                    "ai_deletions": 0,
+                    "human_additions": 0,
+                    "human_deletions": 0,
+                    "ai_model_line_changes": {
+                        "Gemini": 841
+                    },
+                    "ai_input_tokens": 35457,
+                    "ai_cached_input_tokens": 0,
+                    "ai_output_tokens": 13352,
+                    "ai_prompt_length_sum": 0,
+                    "ai_prompt_events_total": 0,
+                    "color": null,
+                    "ai_model_costs": {
+                        "Gemini": 0.231138
+                    },
+                    "ai_model_breakdown": [
+                        {
+                            "name": "Gemini",
+                            "lines": 841,
+                            "cost": 0.231138,
+                            "input_tokens": 35457,
+                            "output_tokens": 13352,
+                            "cached_input_tokens": 0
+                        }
+                    ],
+                    "ai_model_total_cost": 0.231138,
+                    "ai_prompt_length_avg": 0,
+                    "ai_prompt_length_avg_per_session": 0,
+                    "ai_prompt_length_median_per_session": 0,
+                    "ai_prompt_events_avg_per_session": 0,
+                    "ai_prompt_events_median_per_session": 0,
+                    "ai_sessions": 2,
+                    "digital": "0:09:10",
+                    "decimal": "0.15",
+                    "text": "9 mins",
+                    "hours": 0,
+                    "minutes": 9,
+                    "seconds": 10,
+                    "percent": 2.03
                 },
                 {
                     "name": "redant",
-                    "total_seconds": 378.817,
+                    "total_seconds": 329.435801,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 0,
@@ -192,17 +236,17 @@
                     "ai_prompt_events_avg_per_session": 0,
                     "ai_prompt_events_median_per_session": 0,
                     "ai_sessions": 0,
-                    "digital": "0:06:18",
-                    "decimal": "0.10",
-                    "text": "6 mins",
+                    "digital": "0:05:29",
+                    "decimal": "0.08",
+                    "text": "5 mins",
                     "hours": 0,
-                    "minutes": 6,
-                    "seconds": 18,
-                    "percent": 1.4
+                    "minutes": 5,
+                    "seconds": 29,
+                    "percent": 1.21
                 },
                 {
                     "name": "standard-template",
-                    "total_seconds": 116.461,
+                    "total_seconds": 89.535172,
                     "ai_additions": 0,
                     "ai_deletions": 0,
                     "human_additions": 0,
@@ -223,13 +267,13 @@
                     "ai_prompt_events_avg_per_session": 0,
                     "ai_prompt_events_median_per_session": 0,
                     "ai_sessions": 0,
-                    "digital": "0:01:56",
+                    "digital": "0:01:29",
                     "decimal": "0.02",
                     "text": "1 min",
                     "hours": 0,
                     "minutes": 1,
-                    "seconds": 56,
-                    "percent": 0.43
+                    "seconds": 29,
+                    "percent": 0.33
                 },
                 {
                     "name": "admin.redant.app",
@@ -308,25 +352,25 @@
             "languages": [
                 {
                     "name": "Markdown",
-                    "total_seconds": 9065.162308,
-                    "digital": "2:31:05",
-                    "decimal": "2.52",
-                    "text": "2 hrs 31 mins",
+                    "total_seconds": 9540.873298,
+                    "digital": "2:39:00",
+                    "decimal": "2.65",
+                    "text": "2 hrs 39 mins",
                     "hours": 2,
-                    "minutes": 31,
-                    "seconds": 5,
-                    "percent": 33.39
+                    "minutes": 39,
+                    "seconds": 0,
+                    "percent": 35.14
                 },
                 {
                     "name": "Blade Template",
-                    "total_seconds": 5754.307022,
-                    "digital": "1:35:54",
+                    "total_seconds": 5751.281641,
+                    "digital": "1:35:51",
                     "decimal": "1.58",
                     "text": "1 hr 35 mins",
                     "hours": 1,
                     "minutes": 35,
-                    "seconds": 54,
-                    "percent": 21.19
+                    "seconds": 51,
+                    "percent": 21.18
                 },
                 {
                     "name": "PHP",
@@ -341,25 +385,25 @@
                 },
                 {
                     "name": "JSON",
-                    "total_seconds": 2188.121426,
-                    "digital": "0:36:28",
-                    "decimal": "0.60",
-                    "text": "36 mins",
+                    "total_seconds": 1996.237458,
+                    "digital": "0:33:16",
+                    "decimal": "0.55",
+                    "text": "33 mins",
                     "hours": 0,
-                    "minutes": 36,
-                    "seconds": 28,
-                    "percent": 8.06
+                    "minutes": 33,
+                    "seconds": 16,
+                    "percent": 7.35
                 },
                 {
                     "name": "Bash",
-                    "total_seconds": 1757.902,
-                    "digital": "0:29:17",
-                    "decimal": "0.48",
-                    "text": "29 mins",
+                    "total_seconds": 1477.100359,
+                    "digital": "0:24:37",
+                    "decimal": "0.40",
+                    "text": "24 mins",
                     "hours": 0,
-                    "minutes": 29,
-                    "seconds": 17,
-                    "percent": 6.47
+                    "minutes": 24,
+                    "seconds": 37,
+                    "percent": 5.44
                 },
                 {
                     "name": "INI",
@@ -1427,38 +1471,38 @@
                 {
                     "name": "Antigravity IDE",
                     "total_seconds": 27121.657389,
-                    "ai_additions": 2176,
+                    "ai_additions": 3024,
                     "ai_deletions": 4,
                     "human_additions": 3957,
                     "human_deletions": 243,
                     "ai_model_line_changes": {
-                        "Gemini": 2180
+                        "Gemini": 3028
                     },
-                    "ai_input_tokens": 1397610,
+                    "ai_input_tokens": 1433067,
                     "ai_cached_input_tokens": 0,
-                    "ai_output_tokens": 206483,
-                    "ai_prompt_length_sum": 1171,
-                    "ai_prompt_events_total": 9,
+                    "ai_output_tokens": 219835,
+                    "ai_prompt_length_sum": 1215,
+                    "ai_prompt_events_total": 10,
                     "ai_model_costs": {
-                        "Gemini": 4.93302
+                        "Gemini": 5.164158
                     },
                     "ai_model_breakdown": [
                         {
                             "name": "Gemini",
-                            "lines": 2180,
-                            "cost": 4.93302,
-                            "input_tokens": 1397610,
-                            "output_tokens": 206483,
+                            "lines": 3028,
+                            "cost": 5.164158,
+                            "input_tokens": 1433067,
+                            "output_tokens": 219835,
                             "cached_input_tokens": 0
                         }
                     ],
-                    "ai_model_total_cost": 4.93302,
-                    "ai_prompt_length_avg": 130,
-                    "ai_prompt_length_avg_per_session": 139,
-                    "ai_prompt_length_median_per_session": 128,
+                    "ai_model_total_cost": 5.164158,
+                    "ai_prompt_length_avg": 122,
+                    "ai_prompt_length_avg_per_session": 133,
+                    "ai_prompt_length_median_per_session": 120,
                     "ai_prompt_events_avg_per_session": 2,
                     "ai_prompt_events_median_per_session": 2,
-                    "ai_sessions": 5,
+                    "ai_sessions": 6,
                     "digital": "7:32:01",
                     "decimal": "7.53",
                     "text": "7 hrs 32 mins",
@@ -1562,36 +1606,36 @@
             "categories": [
                 {
                     "name": "Coding",
-                    "total_seconds": 14828.054792,
-                    "digital": "4:07:08",
-                    "decimal": "4.12",
-                    "text": "4 hrs 7 mins",
-                    "hours": 4,
-                    "minutes": 7,
-                    "seconds": 8,
-                    "percent": 54.61
+                    "total_seconds": 14352.343802,
+                    "digital": "3:59:12",
+                    "decimal": "3.98",
+                    "text": "3 hrs 59 mins",
+                    "hours": 3,
+                    "minutes": 59,
+                    "seconds": 12,
+                    "percent": 52.86
                 },
                 {
                     "name": "Writing Docs",
-                    "total_seconds": 8054.617,
-                    "digital": "2:14:14",
-                    "decimal": "2.23",
-                    "text": "2 hrs 14 mins",
+                    "total_seconds": 7974.02311,
+                    "digital": "2:12:54",
+                    "decimal": "2.20",
+                    "text": "2 hrs 12 mins",
                     "hours": 2,
-                    "minutes": 14,
-                    "seconds": 14,
-                    "percent": 29.67
+                    "minutes": 12,
+                    "seconds": 54,
+                    "percent": 29.37
                 },
                 {
                     "name": "AI Coding",
-                    "total_seconds": 4049.947208,
-                    "digital": "1:07:29",
-                    "decimal": "1.12",
-                    "text": "1 hr 7 mins",
+                    "total_seconds": 4606.252088,
+                    "digital": "1:16:46",
+                    "decimal": "1.27",
+                    "text": "1 hr 16 mins",
                     "hours": 1,
-                    "minutes": 7,
-                    "seconds": 29,
-                    "percent": 14.92
+                    "minutes": 16,
+                    "seconds": 46,
+                    "percent": 16.97
                 },
                 {
                     "name": "Writing Tests",
