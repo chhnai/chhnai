@@ -43,9 +43,10 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 
 <!--START_SECTION:daily-->
 ```diff
-█████████████░░░░░░░░░░░░ ⁝ 52.09% • Blade Template
-███████████░░░░░░░░░░░░░░ ⁝ 45.06% • JavaScript
-█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 2.86% • PHP
+██████████████░░░░░░░░░░░ ⁝ 54.5% • PHP
+██████████░░░░░░░░░░░░░░░ ⁝ 39.8% • TypeScript
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.21% • Other
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.49% • Git
 ```
 <!--END_SECTION:daily-->
 
