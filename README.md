@@ -43,8 +43,8 @@ If you interesting My GitHub Stats Graph [Check My Project](https://github.com/c
 
 <!--START_SECTION:daily-->
 ```diff
-██████████████░░░░░░░░░░░ ⁝ 54.5% • PHP
-██████████░░░░░░░░░░░░░░░ ⁝ 39.8% • TypeScript
+██████████████████░░░░░░░ ⁝ 70.67% • PHP
+██████░░░░░░░░░░░░░░░░░░░ ⁝ 23.64% • TypeScript
 █░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 5.21% • Other
 ░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 0.49% • Git
 ```
